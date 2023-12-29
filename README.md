@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **C, C++, CSS, and JS**
 
-- 👨‍💻 All of my projects are available at [https://linktr.ee/B_Jayant?utm_source=linktree_profile_share&ltsid=a6e5b2f9-5c1c-48fd-a66e-8ecd03f28429](https://linktr.ee/B_Jayant?utm_source=linktree_profile_share&ltsid=a6e5b2f9-5c1c-48fd-a66e-8ecd03f28429)
+- 👨‍💻 All of my projects are available at [https://jayantbangam.wixsite.com/b-jayant](https://jayantbangam.wixsite.com/b-jayant)
 
 - ⚡ Fun fact **I don't skip the project until and unless I complete it fully.**
 
